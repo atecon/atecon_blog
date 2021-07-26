@@ -1,7 +1,7 @@
 ---
 title: "Recommended packages for the Sublime editor"
 date: 2021-07-26T12:16:32+02:00
-draft: true
+draft: false
 type: post
 description:
 categories: [data, datscience]
