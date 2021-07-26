@@ -24,6 +24,8 @@ author = "Artur Tarassow"
   xing="Artur_Tarassow"
 
 
+permalinks: post: /:filename/
+
 # sectionPagesMenu = "main"
 
 [menu]
