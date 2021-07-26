@@ -186,7 +186,7 @@ plot gpy
 end plot --output="./output/games_per_year.png"
 ```
 
-![Number of games per year](games_per_year.png)
+![/post/footbal_gretl/Number of games per year](games_per_year.png)
 
 
 The number of games per year has surged since the 1950s.
