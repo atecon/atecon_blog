@@ -23,8 +23,9 @@ author = "Artur Tarassow"
   stackoverflow="https://stackoverflow.com/users/13028724/atecon"
   xing="Artur_Tarassow"
 
-
-permalinks: post: /:filename/
+[permalinks]
+# post = "/:year/:month/:title/"
+  post = "/:filename/"
 
 # sectionPagesMenu = "main"
 
